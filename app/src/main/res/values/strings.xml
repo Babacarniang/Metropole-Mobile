@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">edacycours</string>
+    <string name="nav_une">Une</string>
+    <string name="nav_website">Sites</string>
+    <string name="nav_you">vous</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
